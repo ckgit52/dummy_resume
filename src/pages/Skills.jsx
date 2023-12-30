@@ -11,6 +11,7 @@ const Blogs = () => {
 
 
       </div>
+      
       <div className='items-center px-5 sm:grid grid-cols-3 gap-4'>
       <div className='items-center  m-2 bg-gradient-to-b from-red-500  to-black rounded-full p-2 font-bold text-center py-4  hover:animate-pulse animate-bounce transition-all duration-1000 hover:cursor-pointer   '>Tailwind Css</div>
       <div className='items-center m-2 bg-gradient-to-b from-red-500  to-black rounded-full p-2 font-bold text-center py-4  hover:animate-pulse animate-bounce transition-all duration-1000 hover:cursor-pointer  '>React js</div>
